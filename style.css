@@ -74,6 +74,11 @@ nav ul li {
     border-radius: 50px;
 }
 
+.songBanner img {
+    width: 100%;
+    height: 100%;
+}
+
 /* style the footer */
 .bottom {
     display: flex;
@@ -89,6 +94,7 @@ nav ul li {
 
 #myProgressbar {
     width: 100%;
+    cursor: pointer;
 }
 
 .icons {
@@ -112,3 +118,10 @@ nav ul li {
     height: 20px;
 }
 
+.hidden {
+    display: none;
+}
+
+.songItem {
+    cursor: pointer;
+}
