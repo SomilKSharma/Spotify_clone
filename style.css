@@ -1,0 +1,14 @@
+/* reset of margin and padding */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* add color to the body */
+body {
+    background-color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
